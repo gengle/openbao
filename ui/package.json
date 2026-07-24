@@ -97,7 +97,7 @@
     "columnify": "^1.5.4",
     "date-fns": "^4.1.0",
     "deepmerge": "^4.3.1",
-    "dompurify": "^3.0.2",
+    "dompurify": "^3.4.12",
     "ember-auto-import": "2.10.0",
     "ember-basic-dropdown": "6.0.1",
     "ember-cli": "~4.12.3",
