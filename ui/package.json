@@ -229,7 +229,7 @@
     "@hashicorp/design-system-components": "2.3.1",
     "@hashicorp/design-system-tokens": "^1.5.0",
     "@hashicorp/flight-icons": "^2.0.0",
-    "handlebars": "4.7.9",
+    "handlebars": "4.7.10",
     "uuid": "^11.1.0"
   },
   "packageManager": "pnpm@10.34.4",
